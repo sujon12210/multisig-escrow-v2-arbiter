@@ -1,0 +1,10 @@
+{
+  "name": "multisig-escrow-v2-arbiter",
+  "version": "2.0.0",
+  "description": "2-of-3 Multisig Escrow with Dispute Resolution",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "hardhat": "^2.19.0",
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0"
+  }
+}
